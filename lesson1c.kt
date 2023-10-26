@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
     println(myLong)
 
     // Double
-    var height:Double=2.12
+    var height:Double=2.15
     println(height)
 
     //Float
@@ -26,5 +26,11 @@ fun main(args: Array<String>) {
     // character Char
     var letter:Char ='A' //single quotation marks 
     println(letter) 
+
+    // boolean
+    var status:Boolean=23 > 49
+    println(status)
+
+
 
 }
